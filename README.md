@@ -3,7 +3,7 @@ my notes and exercises about studying data science
 | excrcise       | finished/quizzes |
 |----------------|------------------|
 | beforeleetcode |                  |
-| numpy101       | 0/70             |
+| numpy101       | 12/70            |
 | pandas101      | 8/75             |
 
 
